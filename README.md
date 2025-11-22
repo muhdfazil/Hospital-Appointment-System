@@ -28,7 +28,7 @@ It is designed to run **fully offline** with a **self-creating SQLite database**
 - Clean & modern UI  
 - Windows Installer + EXE (no prerequisites)
 
-This project was built by **Muhammad Fazil** ([@muhdfazilcode](https://github.com/muhdfazilcode)) as part of a school IT project.  
+This project was built by **Muhammad Fazil** ([@muhdfazilcode](https://github.com/muhdfazil)) as part of a school IT project.  
 It represents my **first real-world full application**, built from scratch with patience & dedication.
 
 ---
@@ -63,7 +63,7 @@ It represents my **first real-world full application**, built from scratch with 
 
 No Java, no SQL, no prerequisites required.
 
-1. Download the installer from [**Releases**](https://github.com/muhdfazilcode/Hospital-Appointment-System/releases)
+1. Download the installer from [**Releases**](https://github.com/muhdfazil/Hospital-Appointment-System/releases)
 2. Run the setup wizard  
 3. Launch the application from desktop/start menu  
 4. The database (`hospital.db`) will be auto-created on first launch  
@@ -125,4 +125,5 @@ but feedback, suggestions, or improvements are always welcome!
 This project is for educational purposes only.  
 
 Feel free to fork it or learn from it.
+
 
