@@ -108,10 +108,10 @@ The application supports:
 
 Add screenshots here:
 
-/screenshots/login.png
-/screenshots/dashboard.png
-/screenshots/book-appointment.png
-/screenshots/view-patients.png
+![Login Screen](/screenshots/login.png)
+![Dashboard](/screenshots/dashboard.png)
+![Appointment Booking Section](/screenshots/book-appointment.png)
+![View Patients Section](/screenshots/view-patients.png)
 
 ---
 
@@ -125,4 +125,5 @@ but feedback, suggestions, or improvements are always welcome!
 ## License
 
 This project is for educational purposes only.  
+
 Feel free to fork it or learn from it.
