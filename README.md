@@ -28,7 +28,7 @@ It is designed to run **fully offline** with a **self-creating SQLite database**
 - Clean & modern UI  
 - Windows Installer + EXE (no prerequisites)
 
-This project was built by **Muhammad Fazil** ([@muhdfazilcode](https://github.com/muhdfazil)) as part of a school IT project.  
+This project was built by **Muhammad Fazil** ([@muhdfazil](https://github.com/muhdfazil)) as part of a school IT project.  
 It represents my **first real-world full application**, built from scratch with patience & dedication.
 
 ---
@@ -125,5 +125,6 @@ but feedback, suggestions, or improvements are always welcome!
 This project is for educational purposes only.  
 
 Feel free to fork it or learn from it.
+
 
 
