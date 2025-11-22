@@ -74,20 +74,20 @@ No Java, no SQL, no prerequisites required.
 
 ### **Admin**
 
-username: admin
-password: admin123
+- username: admin
+- password: admin123
 
 
 ### **Receptionist**
 
-username: receptionist
-password: recep123
+- username: receptionist
+- password: recep123
 
 
 ### **Patient Sample Account**
 
-username: patient
-password: patient123
+- username: patient
+- password: patient123
 
 
 *(These can be changed or deleted inside the app.)*
@@ -105,8 +105,6 @@ The application supports:
 ---
 
 ##  Screenshots
-
-Add screenshots here:
 
 ![Login Screen](/screenshots/login.png)
 ![Dashboard](/screenshots/dashboard.png)
@@ -127,3 +125,4 @@ but feedback, suggestions, or improvements are always welcome!
 This project is for educational purposes only.  
 
 Feel free to fork it or learn from it.
+
